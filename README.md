@@ -1,7 +1,10 @@
 # Nandighosh Bus – Landing Page
 
-A responsive one-page landing website built using **Next.js**, **React**, and **Tailwind CSS**. This project was created as part of the Full-Stack Web Developer Internship Assignment for **Nandighosh Group**.
+A responsive one-page landing website built using **Next.js**, **React**, and **Tailwind CSS**. This project was developed as part of the Full-Stack Web Developer Internship Assignment for **Nandighosh Group**.
 
+---
+
+🌐 Live Demo: https://nandighosh-landingpage.vercel.app/
 ---
 
 ## 🚍 Project Features
@@ -26,36 +29,34 @@ Showcases 4 key features:
 
 ### ✅ Footer / Contact Section
 - Simple contact form **or** WhatsApp CTA  
-- Placeholder for mobile app banner 
+- Placeholder for mobile app banner (not functional)
 
 ---
 
 ## 🛠 Tech Stack
 
-- [Next.js](https://nextjs.org/) – React framework for SSR/SSG  
-- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS  
-- [pnpm](https://pnpm.io/) – Fast, disk-efficient package manager  
+- **Next.js** – React framework for SSR/SSG  
+- **Tailwind CSS** – Utility-first CSS  
+- **pnpm** – Fast, disk-efficient package manager  
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started (Locally)
 
 ### Prerequisites
-Make sure you have:
 - Node.js (v18 or above)
-- pnpm (installed via `npm i -g pnpm`)
-
----
+- pnpm (install via `npm install -g pnpm`)
 
 ### Installation
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/nandighosh-bus-landing.git
+git clone https://github.com/Harshi-max/nandighosh_landingpage.git
 cd nandighosh-bus-landing
 
 # Install dependencies
 pnpm install
 
-# Run locally
+# Run development server
 pnpm dev
+
